@@ -26,8 +26,48 @@ import pandas as pd
 df=pd.read_csv("/content/SAMPLEIDS.csv")
 df
 ```
+```
+import pandas as pd
+df=pd.read_csv("/content/SAMPLEIDS.csv")
+df
+df.head()
+```
+```
+import pandas as pd
+df=pd.read_csv("/content/SAMPLEIDS.csv")
+df
+df.head()
+df.describe()
+```
+```
+import pandas as pd
+df=pd.read_csv("/content/SAMPLEIDS.csv")
+df
+df.head()
+df.describe()
+df.info()
+```
+```
+import pandas as pd
+df=pd.read_csv("/content/SAMPLEIDS.csv")
+df
+df.tail()
+```
 # Output:
 ![10](https://github.com/Ajith1413/exno1/assets/139842524/58c4a326-0478-4255-9d86-b53348c183d2)
+
+![image](https://github.com/Ajith1413/exno1/assets/139842524/7aa30fc2-8097-4134-9bce-529593df99c8)
+
+![image](https://github.com/Ajith1413/exno1/assets/139842524/b3536929-e8b5-4c46-8ab5-a5cb639e6600)
+
+![image](https://github.com/Ajith1413/exno1/assets/139842524/2c9330f4-861c-4d47-9c94-90e91bf39c67)
+
+![image](https://github.com/Ajith1413/exno1/assets/139842524/ef2a6218-8a55-4d45-b2f3-0d9c81c132a5)
+
+
+
+
+
 
 # Result
           <<include your Result here>>
