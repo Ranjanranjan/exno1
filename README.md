@@ -1,5 +1,5 @@
-# Exno:1
-Data Cleaning Process
+# EXP No: 1
+## DATA CLEANING PROCESS
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
@@ -96,5 +96,5 @@ df.dropna()
 
 
 
-# Result
-          <<include your Result here>>
+# Result:
+Thus the given data is read,cleansed and the cleaned data is saved into the file.
