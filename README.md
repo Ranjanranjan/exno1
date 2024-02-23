@@ -53,6 +53,24 @@ df=pd.read_csv("/content/SAMPLEIDS.csv")
 df
 df.tail()
 ```
+```
+import pandas as pd
+df=pd.read_csv("SAMPLEIDS.csv")
+df
+df.shape
+```
+```
+import pandas as pd
+df=pd.read_csv("SAMPLEIDS.csv")
+df
+df.isnull()
+```
+```
+import pandas as pd
+df=pd.read_csv("SAMPLEIDS.csv")
+df
+df.dropna()
+```
 # Output:
 ![10](https://github.com/Ajith1413/exno1/assets/139842524/58c4a326-0478-4255-9d86-b53348c183d2)
 
@@ -63,6 +81,15 @@ df.tail()
 ![image](https://github.com/Ajith1413/exno1/assets/139842524/2c9330f4-861c-4d47-9c94-90e91bf39c67)
 
 ![image](https://github.com/Ajith1413/exno1/assets/139842524/ef2a6218-8a55-4d45-b2f3-0d9c81c132a5)
+
+![image](https://github.com/Ajith1413/exno1/assets/139842524/4725cfb7-13c0-453c-9a40-ad385f627a9a)
+
+![image](https://github.com/Ajith1413/exno1/assets/139842524/65e9d3b9-76b3-49f5-82ce-fc16d500471b)
+
+![image](https://github.com/Ajith1413/exno1/assets/139842524/886e45cd-ef3e-4371-a489-e0f87f5d118c)
+
+
+
 
 
 
