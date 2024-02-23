@@ -97,5 +97,44 @@ df.dropna()
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Result:
 Thus the given data is read,cleansed and the cleaned data is saved into the file.
